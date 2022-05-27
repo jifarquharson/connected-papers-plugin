@@ -2,13 +2,13 @@
 
 ## About
 
-This plugin integrates [Connected Papers](https://www.connectedpapers.com/) to OJS, inserting a 
+This plugin integrates [Connected Papers](https://www.connectedpapers.com/) (CP) with PKP-OJS, embedding the CP badge into the article details section. 
 
-## Requirements
+Connected Papers receives the article's DOI and checks whether it was successfully parsed by Semantic Scholar (at least one citation or reference are required to create a graph).
 
-* OJS 3.3.0.x
-* DOI assigned to articles
-* 
+There are some controls to guarantee that the badge is only visible when there's a successful answer from CP. 
 
-## Article Details
+## License
+Written by Gonzalo Faramiñan (Biblioteca Central - [Universidad Nacional del Sur](https://www.uns.edu.ar/)) for [Estudios económicos](http://www.estudioseconomicos.uns.edu.ar/) (ISSN:2525-1295). Acknowledgements to Germán Gonzalez (IIESS, UNS-CONICET) and [Connected Papers](https://www.connectedpapers.com)
 
+Released under the GNU General Public License v3 or later
