@@ -3,9 +3,8 @@
 /**
  * @file ConnectedPapersPlugin.inc.php
  *
- * Copyright (c) 2017-2021 Simon Fraser University
- * Copyright (c) 2017-2021 John Willinsky
- * Distributed under the GNU GPL v3. For full terms see the file docs/COPYING.
+ * Copyright (c) 2022 Gonzalo Faramiñan - University Nacional del Sur
+ * Distributed under the GNU GPL v3 or later. For full terms see the file LICENSE
  *
  * @class ConnectedPapersPlugin
  * @brief Plugin class for the Connected Papers plugin.
@@ -54,7 +53,6 @@ class ConnectedPapersPlugin extends GenericPlugin {
 		// get DOI
 		$submission = $templateMgr->getTemplateVars('article');
 		$doi = $submission->getStoredPubId('doi');
-		//$doi='10.52292/J.ESTUDECON.2021.1916';
 		$templateMgr->assign('cpDoi', $doi);
 
 		// get CP bagde template
