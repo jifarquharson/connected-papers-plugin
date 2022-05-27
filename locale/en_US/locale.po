@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2022-04-13T10:25:29-03:00\n"			
+"PO-Revision-Date: 2022-04-13T10:25:29-03:00\n"
+"Language: \n"
+
+msgid "plugins.generic.connectedPapers.displayName"
+msgstr "Connected Papers Plugin"
+
+msgid "plugins.generic.connectedPapers.description"
+msgstr "This plugin integrates OJS to <a href="https://www.connectedpapers.com/" target="_blank"> Connected Papers</a>, embedding a bagde in the article's page when there's a DOI assigned to it."
