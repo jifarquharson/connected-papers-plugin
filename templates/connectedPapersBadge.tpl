@@ -1,7 +1,7 @@
 {**
  * plugins/generic/connectedPapers/connectedPapersBadge.tpl
  *
- * Copyright (c) 2022 Gonzalo Faramiñan - University Nacional del Sur
+ * Copyright (c) 2022 Gonzalo Faramiñan - Universidad Nacional del Sur
  *
  * Connected Papers plugin badge.
  *

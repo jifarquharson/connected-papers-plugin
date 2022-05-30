@@ -3,7 +3,7 @@
 /**
  * @file ConnectedPapersPlugin.inc.php
  *
- * Copyright (c) 2022 Gonzalo Faramiñan - University Nacional del Sur
+ * Copyright (c) 2022 Gonzalo Faramiñan - Universidad Nacional del Sur
  * Distributed under the GNU GPL v3 or later. For full terms see the file LICENSE
  *
  * @class ConnectedPapersPlugin
