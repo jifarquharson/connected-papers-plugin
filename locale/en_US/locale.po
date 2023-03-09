@@ -15,4 +15,4 @@ msgid "plugins.generic.connectedPapers.displayName"
 msgstr "Connected Papers Plugin"
 
 msgid "plugins.generic.connectedPapers.description"
-msgstr "This plugin integrates OJS to <a href="https://www.connectedpapers.com/" target="_blank"> Connected Papers</a>, embedding a bagde in the article's page when there's a DOI assigned to it."
+msgstr "This plugin integrates OJS to <a href="https://www.connectedpapers.com/" target="_blank"> Connected Papers</a>, embedding a badge in the article's page when there's a DOI assigned to it."
