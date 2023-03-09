@@ -55,7 +55,7 @@ class ConnectedPapersPlugin extends GenericPlugin {
 		$doi = $submission->getStoredPubId('doi');
 		$templateMgr->assign('cpDoi', $doi);
 
-		// get CP bagde template
+		// get CP badge template
 		$badge = $this->getTemplateResource('connectedPapersBadge.tpl');
 
 		if ($doi) {
